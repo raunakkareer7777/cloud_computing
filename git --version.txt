@@ -1,0 +1,10 @@
+git --version
+git config --global us user.name "Raunak"
+git config --global us user.email "raunakkareer7777@gmail.com"
+git config --global -- list
+mkdir dirt
+cd dirt
+touch dirt.txt
+echo "Git and GitHub Concepts" > dirt.txt
+
+cat dirt.txt
